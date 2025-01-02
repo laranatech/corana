@@ -1,1 +1,3 @@
-# larana-core
+# Corana
+
+Layout computing library for Larana.
